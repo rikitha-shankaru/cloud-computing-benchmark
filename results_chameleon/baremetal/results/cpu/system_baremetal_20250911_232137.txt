@@ -1,0 +1,5 @@
+Environment: baremetal
+Date: Fri Sep 12 04:21:45 UTC 2025
+CPU:  Intel(R) Xeon(R) Platinum 8380 CPU @ 2.30GHz
+Cores: 160
+Memory: 251Gi

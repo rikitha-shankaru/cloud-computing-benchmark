@@ -1,0 +1,8 @@
+Virtualization Type,Threads,Avg. Latency (ms),Measured Throughput (Events per Second),Efficiency
+baremetal,1,9.29,107.64,
+baremetal,2,9.29,215.26,
+baremetal,4,9.29,430.16,
+baremetal,8,9.30,859.56,
+baremetal,16,9.30,1718.12,
+baremetal,32,9.31,3435.24,
+baremetal,64,12.50,5116.18,

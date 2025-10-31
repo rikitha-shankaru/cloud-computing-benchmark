@@ -1,0 +1,8 @@
+Virtualization Type,Threads,Block Size (KB),Operation,Access Pattern,Total Operations,Throughput (MiB/sec),Efficiency
+baremetal,1,1,Read,Random,16832683,16438.17,
+baremetal,2,1,Read,Random,32760422,31992.60,
+baremetal,4,1,Read,Random,61564176,60121.27,
+baremetal,8,1,Read,Random,120703323,117874.34,
+baremetal,16,1,Read,Random,125829120,122880.00,
+baremetal,32,1,Read,Random,125829120,122880.00,
+baremetal,64,1,Read,Random,125829120,122880.00,

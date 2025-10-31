@@ -1,0 +1,100 @@
+Essential Citations
+===========================================
+
+Core Academic Sources:
+----------------------
+1. Felter, Wes, et al. "An Updated Performance Comparison of Virtual Machines and Linux Containers." 
+   IBM Research, 2015. https://doi.org/10.1109/ISPASS.2015.7095802
+
+2. Xavier, Miguel G., et al. "Performance Evaluation of Container-based Virtualization for High Performance Computing Environments." 
+   Parallel, Distributed and Network-based Processing (PDP), 2013.
+
+3. Sharma, Prateek, et al. "Containers and Virtual Machines at Scale: A Comparative Study." 
+   Middleware Conference, 2016.
+
+4. Merkel, Dirk. "Docker: Lightweight Linux Containers for Consistent Development and Deployment." 
+   Linux Journal, vol. 2014, no. 239, 2014.
+
+5. Barham, Paul, et al. "Xen and the Art of Virtualization." 
+   Proceedings of the 19th ACM Symposium on Operating Systems Principles, 2003.
+
+Infrastructure and Tools:
+-------------------------
+6. Chameleon Cloud Consortium. "Chameleon Cloud Documentation." 
+   University of Chicago and Texas Advanced Computing Center, 2024.
+   https://chameleoncloud.readthedocs.io/
+
+7. Kopytov, Alexey. "sysbench: Scriptable Database and System Performance Benchmark." 
+   GitHub Repository, 2024. https://github.com/akopytov/sysbench
+
+8. ESnet and Lawrence Berkeley National Laboratory. "iPerf3: Network Bandwidth Measurement Tool." 
+   ESnet Tools, 2024. https://iperf.fr/
+
+9. Docker Inc. "Docker Documentation." Docker Docs, 2024.
+   https://docs.docker.com/
+
+10. LXC Project. "Linux Containers Documentation." Linux Containers, 2024.
+    https://linuxcontainers.org/lxc/documentation/
+
+9. OpenBSD Project. "tmux(1) Manual Page." Linux Manual Pages, 2024.
+Data Analysis and Visualization:
+--------------------------------
+11. The Pandas Development Team. "Pandas Documentation." PyData, 2024.
+    https://pandas.pydata.org/docs/
+
+12. The Matplotlib Development Team. "Matplotlib Documentation." Matplotlib, 2024.
+    https://matplotlib.org/stable/contents.html
+
+13. Hunter, John D. "Matplotlib: A 2D Graphics Environment." 
+    Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.
+
+14. McKinney, Wes. "Data Structures for Statistical Computing in Python." 
+    Proceedings of the 9th Python in Science Conference, 2010.
+
+Performance Analysis:
+--------------------
+15. Jain, Raj. "The Art of Computer Systems Performance Analysis." 
+    John Wiley & Sons, 1991.
+
+16. Lilja, David J. "Measuring Computer Performance: A Practitioner's Guide." 
+    Cambridge University Press, 2000.
+
+17. Gregg, Brendan. "Linux Performance Tools." Brendan Gregg's Blog, 2024.
+    http://www.brendangregg.com/linuxperf.html
+
+Cloud Computing Foundations:
+---------------------------
+18. Armbrust, Michael, et al. "A View of Cloud Computing." 
+    Communications of the ACM, vol. 53, no. 4, pp. 50-58, 2010.
+
+19. Buyya, Rajkumar, et al. "Cloud Computing: Principles and Paradigms." 
+    John Wiley & Sons, 2011.
+
+20. Keahey, Kate, et al. "Chameleon: A Large-scale, Reconfigurable Experimental Environment for Cloud Research." 
+    Computer, vol. 53, no. 7, pp. 57-67, IEEE, 2020.
+
+System Administration:
+---------------------
+21. Cooper, Mendel. "Advanced Bash-Scripting Guide." 
+    The Linux Documentation Project, 2024.
+    https://tldp.org/LDP/abs/html/
+
+22. Free Software Foundation. "GNU Bash Manual." Bash Documentation, 2024.
+    https://www.gnu.org/software/bash/manual/bash.html
+
+Course Materials:
+----------------
+23. Course Instructor. "CS553 Cloud Computing Course Materials." 
+    University Course Materials, Fall 2025.
+
+24. Course Instructor. "CS553 HW#2 Assignment Specification." 
+    Course Assignment Document, September 2025.
+
+Research Methodology:
+--------------------
+25. Wilson, Greg, et al. "Best Practices for Scientific Computing." 
+    PLOS Biology, vol. 12, no. 1, 2014.
+
+========================================
+Last Updated: September 12, 2025
+Total References: 25 (Essential Sources)

@@ -1,0 +1,26 @@
+------------------------------------------------------------
+Client connecting to 172.17.0.1, TCP port 5001 with pid 4703 (8 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size: 16.0 KByte (default)
+Event based writes (pending queue watermark at 16384 bytes)
+------------------------------------------------------------
+[  2] local 172.17.0.3%eth0 port 60262 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=3) (icwnd/mss/irtt=14/1448/42) (ct=0.08 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  1] local 172.17.0.3%eth0 port 60270 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=6) (icwnd/mss/irtt=14/1448/53) (ct=0.09 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  6] local 172.17.0.3%eth0 port 60272 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=8) (icwnd/mss/irtt=14/1448/35) (ct=0.06 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  4] local 172.17.0.3%eth0 port 60264 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=5) (icwnd/mss/irtt=14/1448/54) (ct=0.09 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  8] local 172.17.0.3%eth0 port 60280 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=11) (icwnd/mss/irtt=14/1448/34) (ct=0.06 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  5] local 172.17.0.3%eth0 port 60286 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=12) (icwnd/mss/irtt=14/1448/32) (ct=0.06 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  7] local 172.17.0.3%eth0 port 60288 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=13) (icwnd/mss/irtt=14/1448/32) (ct=0.06 ms) on 2025-09-12 05:52:32.288 (UTC)
+[  3] local 172.17.0.3%eth0 port 60304 connected with 172.17.0.1 port 5001 (prefetch=16384) (trip-times) (sock=4) (icwnd/mss/irtt=14/1448/35) (ct=0.06 ms) on 2025-09-12 05:52:32.289 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  2] 0.0000-30.0080 sec   122 GBytes  35.0 Gbits/sec  15651/0         0      562K/764(1475) us  5726661
+[  1] 0.0000-30.0081 sec   121 GBytes  34.5 Gbits/sec  15445/0         0      424K/736(1399) us  5866271
+[  4] 0.0000-30.0078 sec   124 GBytes  35.5 Gbits/sec  15892/0         0      514K/656(1264) us  6772205
+[  3] 0.0000-30.0077 sec   123 GBytes  35.2 Gbits/sec  15726/0         0      564K/598(1099) us  7351469
+[  6] 0.0000-30.0079 sec   124 GBytes  35.6 Gbits/sec  15925/0         0      514K/564(1081) us  7893226
+[  5] 0.0000-30.0079 sec   125 GBytes  35.8 Gbits/sec  16003/0         0      543K/639(1227) us  7000910
+[  8] 0.0000-30.0082 sec   123 GBytes  35.1 Gbits/sec  15683/0         0      543K/719(1387) us  6097476
+[  7] 0.0000-30.0081 sec   125 GBytes  35.7 Gbits/sec  15966/0        45      543K/604(1153) us  7389417
+[SUM] 0.0000-30.0036 sec   987 GBytes   282 Gbits/sec  126291/0        45
+[ CT] final connect times (min/avg/max/stdev) = 0.058/0.069/0.087/12.510 ms (tot/err) = 8/0

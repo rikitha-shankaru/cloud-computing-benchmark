@@ -1,0 +1,5 @@
+Environment: container
+Date: Fri Sep 12 05:26:05 UTC 2025
+CPU:  Intel(R) Xeon(R) Platinum 8380 CPU @ 2.30GHz
+Cores: 160
+Memory: 251Gi

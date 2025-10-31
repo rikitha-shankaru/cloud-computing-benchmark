@@ -1,0 +1,8 @@
+Virtualization Type,Threads,Avg. Latency (ms),Measured Throughput (Events per Second),Efficiency
+vm,1,9.45,105.77,
+vm,2,9.77,204.69,
+vm,4,15.73,254.04,
+vm,8,31.52,253.50,
+vm,16,62.48,255.40,
+vm,32,124.12,256.22,
+vm,64,231.97,273.88,

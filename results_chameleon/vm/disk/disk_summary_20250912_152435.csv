@@ -1,0 +1,8 @@
+Virtualization Type,Threads,Block Size (KB),Operation,Access Pattern,I/O Mode,I/O Flag,Total Operations,Measured Throughput (MiB/s),Efficiency
+vm,1,4,Read,Random,SYNC,DirectIO,31398,12.26,
+vm,2,4,Read,Random,SYNC,DirectIO,77799,30.38,
+vm,4,4,Read,Random,SYNC,DirectIO,202028,78.89,
+vm,8,4,Read,Random,SYNC,DirectIO,398743,155.73,
+vm,16,4,Read,Random,SYNC,DirectIO,603793,235.80,
+vm,32,4,Read,Random,SYNC,DirectIO,768134,299.98,
+vm,64,4,Read,Random,SYNC,DirectIO,778311,303.82,

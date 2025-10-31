@@ -1,0 +1,26 @@
+------------------------------------------------------------
+Client connecting to 10.52.2.64, TCP port 5001 with pid 137534 (8 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size: 16.0 KByte (default)
+Event based writes (pending queue watermark at 16384 bytes)
+------------------------------------------------------------
+[  2] local 10.52.2.64%eno12399np0 port 37712 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=3) (icwnd/mss/irtt=319/32767/34) (ct=0.07 ms) on 2025-09-12 06:53:04.052 (UTC)
+[  1] local 10.52.2.64%eno12399np0 port 37726 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=5) (icwnd/mss/irtt=319/32767/39) (ct=0.07 ms) on 2025-09-12 06:53:04.053 (UTC)
+[  3] local 10.52.2.64%eno12399np0 port 37738 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=7) (icwnd/mss/irtt=319/32767/31) (ct=0.06 ms) on 2025-09-12 06:53:04.053 (UTC)
+[  7] local 10.52.2.64%eno12399np0 port 37744 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=9) (icwnd/mss/irtt=319/32767/30) (ct=0.06 ms) on 2025-09-12 06:53:04.054 (UTC)
+[  6] local 10.52.2.64%eno12399np0 port 37760 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=11) (icwnd/mss/irtt=319/32767/29) (ct=0.06 ms) on 2025-09-12 06:53:04.054 (UTC)
+[  4] local 10.52.2.64%eno12399np0 port 37768 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=13) (icwnd/mss/irtt=319/32767/26) (ct=0.05 ms) on 2025-09-12 06:53:04.054 (UTC)
+[  5] local 10.52.2.64%eno12399np0 port 37784 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=15) (icwnd/mss/irtt=319/32767/28) (ct=0.06 ms) on 2025-09-12 06:53:04.055 (UTC)
+[  8] local 10.52.2.64%eno12399np0 port 37792 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=4) (icwnd/mss/irtt=319/32767/40) (ct=0.07 ms) on 2025-09-12 06:53:04.063 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  2] 0.0000-30.0028 sec   138 GBytes  39.4 Gbits/sec  17600/0         0      639K/38(8) us  129496274
+[  1] 0.0000-30.0027 sec   140 GBytes  40.0 Gbits/sec  17876/0         0      639K/153(237) us  32666982
+[  4] 0.0000-30.0023 sec   145 GBytes  41.6 Gbits/sec  18598/0         1      639K/82(100) us  63414402
+[  6] 0.0000-30.0023 sec   146 GBytes  41.9 Gbits/sec  18728/0         0      639K/38(8) us  137797989
+[  5] 0.0000-30.0025 sec   144 GBytes  41.1 Gbits/sec  18368/0         1      639K/130(192) us  39504945
+[  7] 0.0000-30.0185 sec   149 GBytes  42.7 Gbits/sec  19080/0         0      639K/2020(3979) us  2639536
+[  8] 0.0000-30.0128 sec   146 GBytes  41.9 Gbits/sec  18729/0         1      639K/656(1249) us  7979834
+[  3] 0.0000-30.0185 sec   144 GBytes  41.3 Gbits/sec  18457/0         0      639K/2023(3982) us  2549566
+[SUM] 0.0000-30.0090 sec  1.12 TBytes   330 Gbits/sec  147436/0         3
+[ CT] final connect times (min/avg/max/stdev) = 0.052/0.062/0.075/8.864 ms (tot/err) = 8/0

@@ -1,0 +1,10 @@
+------------------------------------------------------------
+Client connecting to 10.199.40.1, TCP port 5001 with pid 10278 (1 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size: 16.0 KByte (default)
+Event based writes (pending queue watermark at 16384 bytes)
+------------------------------------------------------------
+[  1] local 10.199.40.19%enp5s0 port 35796 connected with 10.199.40.1 port 5001 (prefetch=16384) (trip-times) (sock=3) (icwnd/mss/irtt=14/1448/200) (ct=0.30 ms) on 2025-09-12 08:11:54.607 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  1] 0.0000-30.0205 sec  41.3 GBytes  11.8 Gbits/sec  5286/0         1      516K/633(980) us  2333434

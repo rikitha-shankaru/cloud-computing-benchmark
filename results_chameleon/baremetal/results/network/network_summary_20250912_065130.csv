@@ -1,0 +1,8 @@
+Virtualization Type,Server,Client Threads,Latency (ms),Measured Throughput (Gbits/s),Efficiency
+baremetal,1,1,0.042,43.9,
+baremetal,1,2,0.035,84.4,
+baremetal,1,4,0.031,169,
+baremetal,1,8,0.034,330,
+baremetal,1,16,0.051,586,
+baremetal,1,32,0.036,896,
+baremetal,1,64,0.06,1330,

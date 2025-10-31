@@ -1,0 +1,8 @@
+Virtualization Type,Server,Client Threads,Latency (ms),Measured Throughput (Gbits/s),Efficiency
+container,1,1,N/A,41.2,
+container,1,2,N/A,74.1,
+container,1,4,N/A,151,
+container,1,8,N/A,282,
+container,1,16,N/A,490,
+container,1,32,N/A,727,
+container,1,64,N/A,955,

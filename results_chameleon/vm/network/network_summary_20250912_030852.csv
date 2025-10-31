@@ -1,0 +1,8 @@
+Virtualization Type,Server,Client Threads,Latency (ms),Measured Throughput (Gbits/s),Efficiency
+vm,1,1,0.2,11.8,
+vm,1,2,0.141,16.6,
+vm,1,4,0.168,26.7,
+vm,1,8,0.198,55.2,
+vm,1,16,0.174,62.2,
+vm,1,32,0.135,60.8,
+vm,1,64,0.18,54.7,

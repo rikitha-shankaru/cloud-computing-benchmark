@@ -1,0 +1,14 @@
+[  2] local 10.52.2.64%eno12399np0 port 59054 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=3) (icwnd/mss/irtt=319/32767/35) (ct=0.07 ms) on 2025-09-12 06:52:03.838 (UTC)
+------------------------------------------------------------
+Client connecting to 10.52.2.64, TCP port 5001 with pid 137460 (2 flows)
+Write buffer size: 8388608 Byte
+TOS set to 0x0 and nodelay (Nagle off)
+TCP window size: 16.0 KByte (default)
+Event based writes (pending queue watermark at 16384 bytes)
+------------------------------------------------------------
+[  1] local 10.52.2.64%eno12399np0 port 59066 connected with 10.52.2.64 port 5001 (prefetch=16384) (trip-times) (sock=4) (icwnd/mss/irtt=319/32767/33) (ct=0.06 ms) on 2025-09-12 06:52:03.840 (UTC)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT(var)        NetPwr
+[  1] 0.0000-30.0156 sec   144 GBytes  41.3 Gbits/sec  18475/0         0      639K/1609(3149) us  3209012
+[  2] 0.0000-30.0150 sec   151 GBytes  43.1 Gbits/sec  19266/0         0      639K/1577(3090) us  3414381
+[SUM] 0.0000-30.0033 sec   295 GBytes  84.4 Gbits/sec  37741/0         0
+[ CT] final connect times (min/avg/max/stdev) = 0.065/0.066/0.067/1.414 ms (tot/err) = 2/0
