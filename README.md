@@ -30,7 +30,6 @@ This project evaluates the performance characteristics and virtualization overhe
 ## Project Structure
 
 ```
-├── HW2_Report.pdf           # Complete analysis and findings
 ├── Final_Analysis.xlsx      # Consolidated efficiency data
 ├── plots/                   # Performance visualization graphs
 ├── scripts/                 # Automated benchmark execution
